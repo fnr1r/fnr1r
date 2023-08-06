@@ -12,6 +12,13 @@ I usually write them in either Rust or Python.
 - [bluetoothsync](https://gitlab.com/fnrir/bluetoothsync) - A program that synchronizes bluetooth keys between supported platforms
 - [Magisk Sudo](https://gitlab.com/fnrir/magisk-sudo) - A simple script that runs a command as root
 
+#### Graveyard [R. I. P.]
+
+- [nds-nagito](https://github.com/fnr1r/nds-nagito) - Nagito Komaeda on the Nintendo DS
+- instaling-bot.js (private) - Self-learning Instaling bot in javascript
+- gwoapps-data (private) - too private to explain
+- instaling-themes - Themes for [Insta.Ling](https://instaling.pl/)
+
 #### Media
 
 <p align="left">
