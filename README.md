@@ -24,7 +24,8 @@ I usually write them in either Rust or Python.
 
 <p align="left">
 <a href="https://tech.lgbt/@fnrir"><img src="https://img.shields.io/mastodon/follow/110468693862931848?logo=mastodon&style=for-the-badge" alt="Follow @fnrir on tech.lgbt" /></a>
-<a href="https://twitter.com/fnr1r0" target="blank"><img src="https://img.shields.io/twitter/follow/fnr1r0?logo=twitter&label=Follow @fnr1r0 on Twitter / X&style=for-the-badge" alt="Follow @fnr1r0 on Twitter / X" /></a>
+<!-- no more Xitter -->
+<!-- trans rights!!! -->
 </p>
 
 <!-- ignore this LOL -->
