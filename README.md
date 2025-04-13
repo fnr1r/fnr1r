@@ -7,6 +7,7 @@ I usually write them in either Rust or Python.
 
 #### Some of my projects
 
+- Ventoy... NEO? NG? - [coming soon...](https://github.com/fnr1r/ventoy-meta)
 - [Ventoy CPIO](https://github.com/fnr1r/ventoy-cpio) - An alternate ramdisk for Ventoy
 - [kadishutu](https://github.com/fnr1r/kadishutu) - Save editor for Shin Megami Tensei V: Vengeance
 - [term-detect](https://gitlab.com/fnrir/term-detect) - Terminal emulator detector for Rust
