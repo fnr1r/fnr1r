@@ -30,6 +30,8 @@ I usually write them in either Rust or Python.
 <!-- trans rights!!! -->
 </p>
 
+I also have a [Ko-Fi](https://ko-fi.com/fnrir) for those who are interested.
+
 <!-- ignore this LOL -->
 <!--
 **fnr1r/fnr1r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
