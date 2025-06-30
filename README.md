@@ -24,7 +24,8 @@ I usually write them in either Rust or Python.
 
 #### Media
 
-My [Misskey](https://booping.synth.download/@fnrir)
+My
+<a href="https://booping.synth.download/@fnrir" rel="me">Misskey</a>
 (part of the
 [Fediverse](https://en.wikipedia.org/wiki/Fediverse),
 so you can still follow me from Mastodon)
